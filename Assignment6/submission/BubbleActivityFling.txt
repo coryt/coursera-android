@@ -1,3 +1,0 @@
-03-09 12:55:27.592: I/Lab-Graphics(16096): Creating Bubble at: x:100.0 y:100.0
-03-09 12:55:28.822: I/Lab-Graphics(16096): velocity X:24000.0 velocity Y:24000.0
-03-09 12:55:29.392: I/Lab-Graphics(16096): Bubble removed from view!

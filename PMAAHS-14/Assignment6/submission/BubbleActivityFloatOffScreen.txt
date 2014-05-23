@@ -1,0 +1,2 @@
+03-09 12:56:22.942: I/Lab-Graphics(16311): Creating Bubble at: x:500.0 y:500.0
+03-09 12:56:23.442: I/Lab-Graphics(16311): Bubble removed from view!
